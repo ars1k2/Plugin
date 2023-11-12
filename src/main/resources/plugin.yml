@@ -1,0 +1,8 @@
+name: BestHakaton
+version: '${version}'
+main: org.hakaton.besthakaton.BestHakaton
+api-version: '1.19'
+
+commands:
+  mine:
+    description: 'Best plugin'
